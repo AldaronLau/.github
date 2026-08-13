@@ -27,11 +27,11 @@ require claiming its own authorship according to its usage policy.
 
 By opening a PR on any of my repositories, you assert that the work (excluding
 any test data) is either human generated, computer generated trained on works in
-the public domain (with generated works under your sole ownership to license), or
-a combination of the two.  LLM bug reports are welcome as issues, as long as there
-is a disclaimer that it was discovered with an LLM.  For comments on PRs and
-issues, LLM usage is strictly disallowed, including quoting or citing an LLM's
-opinion or suggestion.
+the public domain (with generated works under your sole ownership to license),
+or a combination of the two.  LLM bug reports are welcome as issues, as long as
+there is a disclaimer that it was discovered with an LLM.  For comments on PRs
+and issues, LLM usage is strictly disallowed, including quoting or citing an
+LLM's opinion or suggestion.
 
 # Code of Conduct
 
